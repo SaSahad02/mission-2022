@@ -65,6 +65,10 @@ p {
     color: cadetblue;
 }
 
+.mid {
+    padding-bottom: 50px;
+}
+
 .mid-range {
     margin: auto;
 }
