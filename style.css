@@ -1,0 +1,133 @@
+body {
+    margin: 0%;
+    padding-left: 100px;
+    padding-right: 50px;
+    font-family: 'Tiro Devanagari Hindi', serif;
+    padding-top: 40px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+h5 {
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+#top-slice {
+    border-image: linear-gradient(tomato, orange);
+    border-image-slice: 1;
+    border-left: 5px solid;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.top {
+    width: 50%;
+}
+
+.top img {
+    width: 80%;
+}
+
+span {
+    color: brown;
+}
+
+p {
+    padding-right: 50px;
+    font-size: 20px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(blue, aqua);
+    padding: 10px 30px;
+    border-radius: 5px;
+    font-weight: 800;
+    color: whitesmoke;
+}
+
+#mid-name {
+    text-align: center;
+    font-size: 40px;
+}
+
+#year {
+    color: cadetblue;
+}
+
+.mid-range {
+    margin: auto;
+}
+
+#exp {
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    background-color: bisque;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#exp img {
+    width: 50%;
+}
+
+#lrn {
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    background-color: cornsilk;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#lrn img {
+    width: 50%;
+}
+
+#stl {
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#stl img {
+    width: 50%;
+}
+
+#foot {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#ftc {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: blanchedalmond;
+}
+
+#fty {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+}
