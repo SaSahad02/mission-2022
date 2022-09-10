@@ -1,13 +1,17 @@
 body {
     margin: 0%;
     padding-left: 100px;
-    padding-right: 50px;
+    padding-right: 100px;
     font-family: 'Tiro Devanagari Hindi', serif;
     padding-top: 40px;
 }
 
 h1 {
     font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
 }
 
 h4 {
@@ -43,7 +47,6 @@ span {
 }
 
 p {
-    padding-right: 50px;
     font-size: 20px;
 }
 
@@ -70,7 +73,8 @@ p {
 }
 
 .mid-range {
-    margin: auto;
+
+    size: 10in;
 }
 
 #exp {
@@ -118,12 +122,35 @@ p {
     width: 50%;
 }
 
+
+.tri-name {
+    width: 50%;
+}
+
+.tri-name img {
+    width: 80%;
+}
+
+.glo {
+    padding-bottom: 50px;
+}
+
+.glo-name {
+    width: 50%;
+    padding-right: 50px;
+}
+
+.glo-name img {
+    width: 80%;
+    padding-left: 50px;
+}
+
 #foot {
     text-align: center;
     background-color: black;
     color: white;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 1opx;
+    padding-bottom: 10x;
 }
 
 #ftc {
